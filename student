@@ -1,0 +1,12 @@
+class student
+{
+public static void main(String args[])
+{
+int regno;
+int marks;
+string name;
+System.out.println("enter the regno")
+Systen.out.println("enter the marks")
+System.out.println("enter the name")
+}
+}
